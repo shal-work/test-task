@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eaf4886.chunk.css",
-    "main.js": "/static/js/main.6c5db946.chunk.js",
-    "main.js.map": "/static/js/main.6c5db946.chunk.js.map",
+    "main.css": "/static/css/main.693fd482.chunk.css",
+    "main.js": "/static/js/main.d6865b8c.chunk.js",
+    "main.js.map": "/static/js/main.d6865b8c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3347dc1b.js",
     "runtime-main.js.map": "/static/js/runtime-main.3347dc1b.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/static/css/2.d8cb5cde.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6f568c2c.chunk.js.map": "/static/js/3.6f568c2c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.3eaf4886.chunk.css.map": "/static/css/main.3eaf4886.chunk.css.map",
+    "static/css/main.693fd482.chunk.css.map": "/static/css/main.693fd482.chunk.css.map",
     "static/js/2.fbfd345a.chunk.js.LICENSE.txt": "/static/js/2.fbfd345a.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/whatsapp.7bd0383c.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.3347dc1b.js",
     "static/css/2.d8cb5cde.chunk.css",
     "static/js/2.fbfd345a.chunk.js",
-    "static/css/main.3eaf4886.chunk.css",
-    "static/js/main.6c5db946.chunk.js"
+    "static/css/main.693fd482.chunk.css",
+    "static/js/main.d6865b8c.chunk.js"
   ]
 }
